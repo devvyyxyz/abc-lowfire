@@ -1,4 +1,4 @@
-![abc: capes](https://cdn.modrinth.com/data/cached_images/159fa23ba217a3f93a2f860372422bd2466da371.png)
+![abc: lowfire](https://cdn.modrinth.com/data/cached_images/84b03d197253903bcddbb221de58ebf957d08bb6.png)
 Makes the fire texture on screen lower for easier viewing
 
 ## Step-by-Step Guide
